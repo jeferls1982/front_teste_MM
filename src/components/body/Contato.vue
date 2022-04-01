@@ -110,7 +110,7 @@ export default {
   },
   data() {
     return {
-      showInfo: true,
+      showInfo: false,
       showForm: false,
       contato: null,
       contato_id: null,
