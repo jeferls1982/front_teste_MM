@@ -1,7 +1,10 @@
-# Vue 3 + Vite
+# Fronteend teste Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<h3>Passo a passo da instalação</h3>
 
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+<p>1- Clone o repositório no link https://github.com/jeferls1982/front_teste_MM</p>
+<p>2- Entre na pasta do projeto <code>front_teste_MM</code></p>
+<p>3- Pelo terminal, rode o comando <code>npm install --save</code></p>
+<p>4- Rode o comando <code>npm install</code> </p>
+<p>2- </p>
+<p>2- </p>
