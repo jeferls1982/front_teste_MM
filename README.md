@@ -6,5 +6,6 @@
 <p>2- Entre na pasta do projeto <code>front_teste_MM</code></p>
 <p>3- Pelo terminal, rode o comando <code>npm install --save</code></p>
 <p>4- Rode o comando <code>npm install</code> </p>
-<p>2- </p>
-<p>2- </p>
+<p>5- Para rodar o projeto, rode o comando <code>npm run dev</code></p>
+<p>6- Acesse o endereço <code> http://localhost:3000/</code> pelo navegador web</p>
+<p>7- Certifique-se que a <code>api_node</code> esta rodando no endereço <code> http://localhost:3001/</code></p>
