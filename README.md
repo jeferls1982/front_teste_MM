@@ -21,8 +21,8 @@
 
 <p>1- Clone o repositório no link https://github.com/jeferls1982/front_teste_MM</p>
 <p>2- Entre na pasta do projeto <code>front_teste_MM</code></p>
-<p>3- Pelo terminal, rode o comando <code>npm install --save</code></p>
-<p>4- Rode o comando <code>npm install</code> </p>
-<p>5- Para rodar o projeto, rode o comando <code>npm run dev</code></p>
-<p>6- Acesse o endereço <code> http://localhost:3000/</code> pelo navegador web</p>
-<p>7- Certifique-se que a <code>api_node</code> esta rodando no endereço <code> http://localhost:3001/</code></p>
+
+<p>3- Rode o comando <code>npm install</code> </p>
+<p>4- Para rodar o projeto, rode o comando <code>npm run dev</code></p>
+<p>5- Acesse o endereço <code> http://localhost:3000/</code> pelo navegador web</p>
+<p>6- Certifique-se que a <code>api_node</code> esta rodando no endereço <code> http://localhost:3001/</code></p>
